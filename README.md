@@ -1,2 +1,3 @@
 # Beneficio-incapacidade
 Beneficio-incapacidade
+Analisa benefício por incapacidade no RGPS (auxílio-doença, aposentadoria por incapacidade permanente) e BPC/LOAS quando a condição não tem exame objetivo que a confirme — fibromialgia (CID M79.7), fadiga crônica, dor crônica, síndromes de diagnóstico por exclusão. Gera relatório com inventário de provas, requisitos legais, jurisprudência verificada por busca ativa e recomendação estratégica. Use sempre que o usuário mencionar fibromialgia, fadiga/dor crônica sem causa objetiva, indeferimento do INSS por "falta de comprovação objetiva", perícia contestada ou Laudo SABI desfavorável — mesmo sem citar o nome do skill. NÃO cobre RPPS nem condições com exame objetivo claro (fraturas, biópsias); avise se for o caso.
